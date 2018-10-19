@@ -2,7 +2,7 @@
 
 Simple Todo List in React 
 
-Install All Package 
+Install All Package :
 npm install
 
 To Run :
