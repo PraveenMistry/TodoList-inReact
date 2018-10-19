@@ -2,6 +2,8 @@
 
 Simple Todo List in React 
 
-To Run :
+Install All Package 
 npm install
+
+To Run :
 npm start
